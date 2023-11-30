@@ -4,3 +4,12 @@ h1{
     font-size: 60px;
     background-color: black;
 }
+p{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+
+}
+#imagem1{
+    width: 40%;
+}
